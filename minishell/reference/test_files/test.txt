@@ -1,0 +1,5 @@
+Main file contains: Hi
+
+After dup2 function, this is added to the txt file 
+After dup2 function, this is added to the txt file 
+After dup2 function, this is added to the txt file 
