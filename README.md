@@ -2,6 +2,10 @@
 
 The objective of this project is to create a custom shell program that mimics the behavior of a Bash shell. The shell is able to interpret and execute commands entered by the user, handle various special characters, implement built-in commands, and support advanced features like redirections and pipes.
 
+I collaborated on this project with <a href="https://github.com/Larakh88">
+ Lara Elkhoury
+</a>.
+
 ## Key Features
 
 - Display a prompt when waiting for a new command
