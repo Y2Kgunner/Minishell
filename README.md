@@ -12,7 +12,7 @@ I collaborated on this project with <a href="https://github.com/Larakh88">
 - Implement a working history feature
 - Search and launch the right executable based on the PATH variable or using a relative or absolute path
 - Interpret quotes (single and double) to prevent shell interpretation of metacharacters
-- Handle redirections for input (<), output (> and >>), and here documents (<<)
+- Handle redirections for input (<), output (> and >>), and heredoc (<<)
 - Implement pipes (|)
 - Handle environment variables expansion ($)
 - Handle special variables such as $? for exit status
